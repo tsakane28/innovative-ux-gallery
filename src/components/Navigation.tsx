@@ -61,7 +61,7 @@ const Navigation: React.FC = () => {
       <div className="container mx-auto">
         <nav className="flex items-center justify-between">
           <a href="#home" className="text-2xl font-display font-bold text-foreground">
-            Alex<span className="text-primary">Smith</span>
+            TM<span className="text-primary">WS</span>
           </a>
           
           {/* Desktop navigation */}

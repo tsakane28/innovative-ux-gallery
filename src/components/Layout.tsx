@@ -46,7 +46,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </main>
       <footer className="py-8 px-6 bg-secondary">
         <div className="container mx-auto text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} Alex Smith. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} TMWS. All rights reserved.</p>
         </div>
       </footer>
     </div>

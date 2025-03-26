@@ -96,7 +96,7 @@ const ResumeSection: React.FC = () => {
           </div>
           
           <div className="glass-panel p-6">
-            <h4 className="text-xl font-display font-bold">Alex Smith</h4>
+            <h4 className="text-xl font-display font-bold">Tsakane Shiri</h4>
             <p className="text-muted-foreground my-3">
               Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.
             </p>

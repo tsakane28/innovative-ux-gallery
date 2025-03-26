@@ -14,11 +14,11 @@ const HeroSection: React.FC = () => {
       <div className="container mx-auto px-6 md:px-12">
         <div className="text-center">
           <h1 className="text-5xl md:text-7xl font-display font-bold mb-6 animate-fade-in">
-            Welcome to my <span className="text-primary">portfolio</span>
+            Welcome to My <span className="text-primary">portfolio</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto mb-12 animate-fade-in" style={{ animationDelay: '0.3s' }}>
-            I'm Alex Smith, a passionate UI/UX Designer with a keen eye for creating beautiful, functional experiences.
+          Hi, I'm Tsakane Shiri, a passionate software developer dedicated to crafting intuitive and high-performing digital experiences. With a blend of creativity and technical expertise, I specialize in building modern, efficient, and visually striking applications.
           </p>
           
           <div className="animate-fade-in" style={{ animationDelay: '0.6s' }}>
